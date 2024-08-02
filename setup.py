@@ -9,14 +9,14 @@ with open("requirements.txt", "r") as rqf:
 setuptools.setup(
     
     name="inodeai",
-    version="0.0.1",
+    version="0.0.5",
     author="IndoeAi.com",
     author_email="support@inode-ai.com",
     description="The IndoeAi.com helper package",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Inode-ai/Inode-ai",
-    packages=setuptools.find_packages(where="./explainability_interface"),
+    packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

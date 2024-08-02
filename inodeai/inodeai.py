@@ -8,7 +8,7 @@ import asyncio
 import websockets
 from datetime import datetime
 # from .explainability_interface import explainer
-from explainability_interface import explainer
+from .explainability_interface import explainer
 import shap
 import pandas as pd
 import wget

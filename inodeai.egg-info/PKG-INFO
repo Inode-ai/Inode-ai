@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: inodeai
+Version: 0.0.5
+Summary: The IndoeAi.com helper package
+Home-page: https://github.com/Inode-ai/Inode-ai
+Author: IndoeAi.com
+Author-email: support@inode-ai.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 
 This package includes helper scripts for interfacing your machine learning code with the IndoeAi.com  containerization code.
 
