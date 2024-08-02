@@ -1,0 +1,1 @@
+This repository contains code to integrate various machine learning models with popular explainability libraries, such as SHAP and ELI5. The goal is to provide a unified interface for interacting with these libraries, facilitating the explanation of model predictions.
